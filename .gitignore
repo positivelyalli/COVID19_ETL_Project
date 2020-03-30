@@ -1,0 +1,13 @@
+#Ignore Mac system files
+.DS_store
+
+#Ignore chromedriver
+chromedriver.exe
+covid_top_states.csv
+
+<<<<<<< HEAD
+.ipynb_checkpoints
+=======
+__pycache__/*.*
+__pycache__/*
+>>>>>>> 31a22c9888a9108f05ddea09200ddfbb11610eab
