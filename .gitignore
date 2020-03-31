@@ -1,1 +1,13 @@
+
 config.py
+=======
+#Ignore Mac system files
+.DS_store
+
+#Ignore chromedriver
+chromedriver.exe
+covid_top_states.csv
+
+.ipynb_checkpoints
+=======
+__pycache__/*
