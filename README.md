@@ -1,17 +1,18 @@
-# COVID19_ETL_Project
+# COVID-19 ETL Project
 ## How effective is shelter-in-place in fighting COVID-19?
-An analysis of COVID-19 deaths and cases by state and what measures affected the growth rate. The data is from John Hopkins and scraping the New York Times to create a PostGres SQL database.
+
+Analysis of COVID-19 deaths and cases by state and what measures affected the growth rate. The data is from John Hopkins and scraping the New York Times to create a PostGres SQL database.
 
 ## Getting Started
 
 1. Use [WHO github dataset](https://github.com/WorldHealthOrganization/app)-vicky (by state)
     - Current Cases, New Cases, Deaths, New Deaths by date
-2. Scrape Nytimes article - Alli
+2. Scrape [NY Times](https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html ) article - Alli
     - Measures put in place by date
-3. Retrieve from Census API - Sowmya
+3. Retrieve from [Census API](https://www.census.gov/data/developers.html) - Sowmya
     - Age
     - Population
-4. Scrape NY Times for SIP information by State: Alli
+4. Clean NY Times SIP data by State: Alli
     - New York
         - Stay at home, effective March 22 at 8 p.m.
     - New Jersey
