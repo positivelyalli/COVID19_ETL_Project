@@ -1,7 +1,7 @@
 # COVID-19 ETL Project
 ## How effective is shelter-in-place in fighting COVID-19?
 
-Analysis of COVID-19 deaths and cases by state and what measures affected the growth rate. The data is from John Hopkins and scraping the New York Times to create a PostGres SQL database.
+Analysis of COVID-19 deaths and cases by state and what measures affected the growth rate. The data is from John Hopkins and scraping the New York Times to create a PostGres SQL database allowing for analysis of the effectiveness of shelter in place.
 
 ## Getting Started
 
